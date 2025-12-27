@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+.venv/
+venv/
+
+# PyInstaller cache
+build/
+*.spec
+
+# runtime index / data
+indexes/
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+dist/
+*.exe
